@@ -3,7 +3,7 @@
     "description": "passenger service",
     "version": "1.0.0",
     "main": "src/main.ts",
-    "author": "Meysam Hadeli",
+    "author": "David Philip",
     "license": "MIT",
     "scripts": {
         "build": "nest build",

@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom:20px">
   <img src="assets/logo.png" alt="booking-microservices-nestjs" />
     <div align="center">
-                       <a href="https://github.com/meysamhadeli/booking-microservices-nestjs/actions/workflows/ci.yml"><img src="https://github.com/meysamhadeli/booking-microservices-nestjs/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square"/></a>
-                       <a href="https://github.com/meysamhadeli/booking-microservices-nestjs/blob/main/LICENSE"><img src="https://img.shields.io/github/license/meysamhadeli/booking-microservices-nestjs?color=%234275f5&style=flat-square"/></a>
+                       <a href="https://github.com/ab-dex/booking-microservices-nestjs/actions/workflows/ci.yml"><img src="https://github.com/ab-dex/booking-microservices-nestjs/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square"/></a>
+                       <a href="https://github.com/ab-dex/booking-microservices-nestjs/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ab-dex/booking-microservices-nestjs?color=%234275f5&style=flat-square"/></a>
     </div>
 </div>
            
@@ -11,9 +11,9 @@
 > 💡 **This project is not business-oriented and most of my focus was in the thechnical part for implement a distributed system with a sample project. In this project I implemented some concept in microservices like Messaging, Tracing, Event Driven Architecture, Vertical Slice Architecture, CQRS.**
 
 **You can find `Expressjs` ported of this project in this link:**
-🔗 [booking-microservices-expressjs](https://github.com/meysamhadeli/booking-microservices-expressjs)
+🔗 [booking-microservices-expressjs](https://github.com/ab-dex/booking-microservices-expressjs)
 
-<a href="https://gitpod.io/#https://github.com/meysamhadeli/booking-microservices-nestjs"><img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg"/></a>
+<a href="https://gitpod.io/#https://github.com/ab-dex/booking-microservices-nestjs"><img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg"/></a>
 
 # Table of Contents
 
@@ -64,7 +64,7 @@
 
 > 🌀This project is a work in progress, new features will be added over time.🌀
 
-I will try to register future goals and additions in the [Issues](https://github.com/meysamhadeli/booking-microservices-nestjs/issues) section of this repository.
+I will try to register future goals and additions in the [Issues](https://github.com/ab-dex/booking-microservices-nestjs/issues) section of this repository.
 
 High-level plan is represented in the table
 
@@ -207,7 +207,7 @@ Thanks a bunch for supporting me!
 
 ## Contribution
 
-Thanks to all [contributors](https://github.com/meysamhadeli/booking-microservices-nestjs/graphs/contributors), you're awesome and this wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/ab-dex/booking-microservices-nestjs/graphs/contributors), you're awesome and this wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
 Please follow this [contribution guideline](./CONTRIBUTION.md) to submit a pull request or create the issue.
 
@@ -218,4 +218,4 @@ Please follow this [contribution guideline](./CONTRIBUTION.md) to submit a pull 
 
 
 ## License
-This project is made available under the MIT license. See [LICENSE](https://github.com/meysamhadeli/booking-microservices-nestjs/blob/main/LICENSE) for details.
+This project is made available under the MIT license. See [LICENSE](https://github.com/ab-dex/booking-microservices-nestjs/blob/main/LICENSE) for details.
